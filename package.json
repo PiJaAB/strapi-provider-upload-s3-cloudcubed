@@ -1,6 +1,6 @@
 {
   "name": "strapi-provider-upload-aws-s3-cloudcubed",
-  "version": "3.0.0-beta.16.3",
+  "version": "3.0.0-beta.17.5",
   "description": "Cloudcubed/AWS-S3 provider for strapi upload",
   "homepage": "http://strapi.io",
   "keywords": [
@@ -21,23 +21,23 @@
     "isProvider": true
   },
   "author": {
-    "email": "hi@strapi.io",
-    "name": "Strapi team",
-    "url": "http://strapi.io"
+    "email": "linn.dahlgren@pija.se",
+    "name": "Linn Dahlgren",
+    "url": "https://www.pija.se"
   },
   "maintainers": [
     {
-      "name": "Strapi team",
-      "email": "hi@strapi.io",
-      "url": "http://strapi.io"
+      "name": "PiJa Media Och Management AB",
+      "email": "info@pija.se",
+      "url": "https://www.pija.se"
     }
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/PiJaAB/strapi-provider-upload-s3-cloudcubed.git"
   },
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/PiJaAB/strapi-provider-upload-s3-cloudcubed/issues"
   },
   "engines": {
     "node": ">=10.0.0",
@@ -46,6 +46,5 @@
   "license": "MIT",
   "scripts": {
     "test": "echo \"no tests yet\""
-  },
-  "gitHead": "c85658a19b8fef0f3164c19693a45db305dc07a9"
+  }
 }
