@@ -1,4 +1,4 @@
-# strapi-provider-upload-s3-cloudcubed
+# strapi-provider-upload-aws-s3-cloudcubed
 
 ## Resources
 
