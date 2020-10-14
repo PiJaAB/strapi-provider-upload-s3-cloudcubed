@@ -1,6 +1,6 @@
 {
   "name": "@pija-ab/strapi-provider-upload-s3-cloudcubed",
-  "version": "3.2.3",
+  "version": "3.2.4",
   "description": "Cloudcubed/AWS-S3 provider for strapi upload",
   "homepage": "https://pija.se",
   "keywords": [
