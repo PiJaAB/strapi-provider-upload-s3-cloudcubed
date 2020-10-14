@@ -1,6 +1,6 @@
 {
   "name": "@pija-ab/strapi-provider-upload-s3-cloudcubed",
-  "version": "3.0.0-beta.19.5",
+  "version": "3.1.1",
   "description": "Cloudcubed/AWS-S3 provider for strapi upload",
   "homepage": "https://pija.se",
   "keywords": [
@@ -14,8 +14,8 @@
   },
   "main": "./lib",
   "dependencies": {
-    "aws-sdk": "^2.457.0",
-    "lodash": "^4.17.11"
+    "aws-sdk": "^2.771.0",
+    "lodash": "^4.17.20"
   },
   "strapi": {
     "isProvider": true
